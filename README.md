@@ -19,7 +19,7 @@
 
 <h2>Jurassic Park<h2>
 
-<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYm6fm0EspLhR1JxRVuy-ukyHOgaeS5cBptw&s">
+<image src="https://imgs.search.brave.com/-7tMf21MFQqo3P4zrlMi_c8Y1NNMZxIfVZpU4OP68hg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qTTJNRGd4/TURnME5sNUJNbDVC/YW5CblhrRnRaVGd3/TlRNMk9UTTVOREVA/LmpwZw">
 
 
 <a href="https://www.youtube.com/watch?v=lc0UehYemQA"> Trailer </a>
